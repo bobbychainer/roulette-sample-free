@@ -2,11 +2,11 @@
   
   <div align="center">
 
-  [![GitHub release (latest by date)](https://img.shields.io/github/v/release/matiasvallejosdev/casino-roulette-game)](https://github.com/matiasvallejosdev/casino-roulette-game)
-  [![GitHub top language](https://img.shields.io/github/languages/top/matiasvallejosdev/casino-roulette-game?color=1081c2)](https://github.com/matiasvallejosdev/casino-roulette-game/search?l=c%23)
-  [![GitHub Watchers](https://img.shields.io/github/watchers/matiasvallejosdev/casino-roulette-game?color=4cc51e)](https://github.com/matiasvallejosdev/casino-roulette-game/watchers)
-  [![GitHub Repo stars](https://img.shields.io/github/stars/matiasvallejosdev/casino-roulette-game?color=4cc51e)](https://github.com/matiasvallejosdev/casino-roulette-game/star)
-  [![GitHub Forks](https://img.shields.io/github/forks/matiasvallejosdev/casino-roulette-game?color=4cc51e)](https://github.com/matiasvallejosdev/casino-roulette-game/network/members)
+  [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bobbychainer/roulette-sample-free)](https://github.com/bobbychainer/roulette-sample-free)
+  [![GitHub top language](https://img.shields.io/github/languages/top/bobbychainer/roulette-sample-free?color=1081c2)](https://github.com/bobbychainer/roulette-sample-free/search?l=c%23)
+  [![GitHub Watchers](https://img.shields.io/github/watchers/bobbychainer/roulette-sample-free?color=4cc51e)](https://github.com/bobbychainer/roulette-sample-free/watchers)
+  [![GitHub Repo stars](https://img.shields.io/github/stars/bobbychainer/roulette-sample-free?color=4cc51e)](https://github.com/bobbychainer/roulette-sample-free/star)
+  [![GitHub Forks](https://img.shields.io/github/forks/bobbychainer/roulette-sample-free?color=4cc51e)](https://github.com/bobbychainer/roulette-sample-free/network/members)
   <br />
   [![Unity Badge](http://img.shields.io/badge/-Unity3D_2020.3.5f1-000?logo=unity&link=https://unity.com/)](https://unity.com/)
   </div>
@@ -17,7 +17,7 @@ This repository contains an American casino roulette table simulation for Androi
     <a href="https://youtu.be/5RKrxPUl-cg" target="_blank">View Demo in Youtube</a> <br />
       <p align="center">
       <a href="https://youtu.be/5RKrxPUl-cg" rel="nofollow">
-      <img src="https://github.com/matiasvallejosdev/casino-roulette-game/blob/master/docs/Gif(1).gif?raw=true" alt="Demo Video" width="250">
+      <img src="https://github.com/bobbychainer/roulette-sample-free/blob/master/docs/Gif(1).gif?raw=true" alt="Demo Video" width="250">
     </a>
   </p>
     
@@ -37,42 +37,42 @@ This repository contains an American casino roulette table simulation for Androi
 ## Installation
 　1. Clone a repository or download it as zip.
 ```
-    git clone https://github.com/matiasvallejosdev/casino-roulette-game
+    git clone https://github.com/bobbychainer/roulette-sample-free
 ```
 ## Screenshoot
 Game Screenshoot on Android Device.
 <p>
   <p>
     <a rel="nofollow">
-    <img src="https://github.com/matiasvallejosdev/casino-roulette-game/blob/master/docs/Screenshoot%20(7).jpg?raw=true" width="200">
+    <img src="https://github.com/bobbychainer/roulette-sample-free/blob/master/docs/Screenshoot%20(7).jpg?raw=true" width="200">
     </a>
     <a rel="nofollow">
-    <img src="https://github.com/matiasvallejosdev/casino-roulette-game/blob/master/docs/Screenshoot%20(4).jpg?raw=true" width="200">
+    <img src="https://github.com/bobbychainer/roulette-sample-free/blob/master/docs/Screenshoot%20(4).jpg?raw=true" width="200">
     </a>
     <a rel="nofollow">
-    <img src="https://github.com/matiasvallejosdev/casino-roulette-game/blob/master/docs/Screenshoot%20(3).jpg?raw=true" width="200">
-    </a>
-  </p>
-  <p>
-    <a rel="nofollow">
-    <img src="https://github.com/matiasvallejosdev/casino-roulette-game/blob/master/docs/Screenshoot%20(2).jpg?raw=true" width="200">
-    </a>
-    <a rel="nofollow">
-    <img src="https://github.com/matiasvallejosdev/casino-roulette-game/blob/master/docs/Screenshoot%20(5).jpg?raw=true" width="200">
-    </a>
-    <a rel="nofollow">
-    <img src="https://github.com/matiasvallejosdev/casino-roulette-game/blob/master/docs/Screenshoot%20(6).jpg?raw=true" width="200">
+    <img src="https://github.com/bobbychainer/roulette-sample-free/blob/master/docs/Screenshoot%20(3).jpg?raw=true" width="200">
     </a>
   </p>
   <p>
     <a rel="nofollow">
-    <img src="https://github.com/matiasvallejosdev/casino-roulette-game/blob/master/docs/Screenshoot%20(1).jpg?raw=true" width="200">
+    <img src="https://github.com/bobbychainer/roulette-sample-free/blob/master/docs/Screenshoot%20(2).jpg?raw=true" width="200">
     </a>
     <a rel="nofollow">
-    <img src="https://github.com/matiasvallejosdev/casino-roulette-game/blob/master/docs/Screenshoot%20(8).jpg?raw=true" width="200">
+    <img src="https://github.com/bobbychainer/roulette-sample-free/blob/master/docs/Screenshoot%20(5).jpg?raw=true" width="200">
     </a>
     <a rel="nofollow">
-    <img src="https://github.com/matiasvallejosdev/casino-roulette-game/blob/master/docs/Screenshoot%20(9).jpg?raw=true" width="200">
+    <img src="https://github.com/bobbychainer/roulette-sample-free/blob/master/docs/Screenshoot%20(6).jpg?raw=true" width="200">
+    </a>
+  </p>
+  <p>
+    <a rel="nofollow">
+    <img src="https://github.com/bobbychainer/roulette-sample-free/blob/master/docs/Screenshoot%20(1).jpg?raw=true" width="200">
+    </a>
+    <a rel="nofollow">
+    <img src="https://github.com/bobbychainer/roulette-sample-free/blob/master/docs/Screenshoot%20(8).jpg?raw=true" width="200">
+    </a>
+    <a rel="nofollow">
+    <img src="https://github.com/bobbychainer/roulette-sample-free/blob/master/docs/Screenshoot%20(9).jpg?raw=true" width="200">
     </a>
   </p>
 
@@ -84,10 +84,6 @@ Game Screenshoot on Android Device.
 　3.　Commit your Changes. <br />
 　4.　Push to the Branch. <br />
 　5.　Open a Pull Request. <br />
-
-## Credits
-
-- Main Developer: [Matias A. Vallejos](https://www.linkedin.com/in/matiasvallejos/)
 
 ## Thanks
 
