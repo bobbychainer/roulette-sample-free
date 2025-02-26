@@ -30,8 +30,6 @@ This repository contains an American casino roulette table simulation for Androi
 - [Installation](#installation)
 - [Screenshoot](#screenshoot)
 - [Contributing](#contributing)
-- [License](#license)
-- [Credits](#credits)
 - [Thanks](#thanks)
   
 ## Installation
